@@ -672,7 +672,7 @@ li{
 }
 
 .hero-bloc-text {
-    font-size: 38px;
+    font-size: 35px;
 }
 
 .hero-bloc-text-sub {
@@ -1043,6 +1043,12 @@ h4 {
     .bloc {
         padding-left: 0;
         padding-right: 0;
+    }
+    .bg-banniere {
+    background-image: url("img/la-chouette-agence-banniere-Mobile.jpg");
+    }
+    .bg-presentation {
+    background-image: url("img/image-de-presentation-Mobile.jpg");
     }
 }
 
